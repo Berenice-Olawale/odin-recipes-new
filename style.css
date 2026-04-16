@@ -1,0 +1,22 @@
+body
+{
+    background-color: #003049;
+}
+h1
+{
+    color: aliceblue;
+    background-color: #D62828;
+    text-align: center;
+    margin: 50px auto;
+    padding: 20px;
+}
+h3,h2{
+    color: #D62828;
+}
+li{
+    color: #F77F00;
+}
+p{
+    background-color: #FCBF49;
+    color: #003049;
+}
